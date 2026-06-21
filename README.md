@@ -21,4 +21,4 @@ I fixed that by plugging in an external mouse and keyboard to turn it back on.
 > You have been warned
 
 ## Usage
-Run it with `python keyboard_controller.py [--keyboard-only] [--all]`
+Run it with `python keyboard_controller.py on/off [--keyboard-only] [--all]`
