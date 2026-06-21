@@ -4,3 +4,5 @@ It blocks all keystrokes as long as the script is running, by intercepting all k
 > I use to clean my keyboard, without having to turn my device off.
 >
 > Do with it what you will.
+
+Run it with `python keyboard_blocker.py`
