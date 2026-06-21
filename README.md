@@ -10,7 +10,7 @@ The `keyboard_blocker.py` blocks all keystrokes as long as the script is running
 Run it with `python keyboard_blocker.py`
 
 
-# Keyboard Controller
+# Keyboard-Controller
 The `keyboard_controller.py` allows you to enable/disable the driver of the keyboard (Sometimes the touchpad). However, it has a caveat. If the driver of the keyboard and the touchpad is already loaded (which probably is), you would notice the keyboard (and possibly the touchpad didn't get disabled). That's until you restart your device, then you'll realize they got disabled.
 
 I fixed that by plugging in an external mouse and keyboard to turn it back on.
